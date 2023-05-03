@@ -1,6 +1,7 @@
 body {
   font-family: "Lato", sans-serif;
   font-family: "Lora", serif;
+  visibility: hidden;
 }
 .container {
   max-width: 1110px;
@@ -300,13 +301,13 @@ body {
   box-shadow: 0px 68px 50px -75px rgba(0, 0, 0, 0.75);
 }
 .spaces__carousel-team > div {
-  background-image: url(../img/first-carousel/team.png);
+  background-image: url(../img/first-carousel/team.webp);
 }
 .spaces__carousel-private > div {
   background-color: #10375c;
 }
 .spaces__carousel-office > div {
-  background-image: url(../img/first-carousel/office.png);
+  background-image: url(../img/first-carousel/office.webp);
 }
 .spaces__carousel {
   position: relative;
